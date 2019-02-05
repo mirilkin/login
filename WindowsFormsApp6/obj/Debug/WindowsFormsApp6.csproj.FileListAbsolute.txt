@@ -1,0 +1,14 @@
+c:\users\mirilkinrn\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+c:\users\mirilkinrn\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+c:\users\mirilkinrn\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+c:\users\mirilkinrn\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\EntityFramework.dll
+c:\users\mirilkinrn\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\mirilkinrn\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\EntityFramework.xml
+c:\users\mirilkinrn\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\mirilkinrn\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csprojResolveAssemblyReference.cache
+c:\users\mirilkinrn\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+c:\users\mirilkinrn\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+c:\users\mirilkinrn\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.Cache
+c:\users\mirilkinrn\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+c:\users\mirilkinrn\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+c:\users\mirilkinrn\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
